@@ -1,0 +1,6 @@
+name: MZP-ProxyCore
+main: minecraft.proxycore.zocker.pro.Main
+author: ludgart
+version: 0.0.1
+server: play.minecraftzocker.net
+homepage: www.minecraftzocker.net
